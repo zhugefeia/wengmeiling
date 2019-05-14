@@ -42,10 +42,63 @@ markdown_extensions:
   - markdown.extensions.toc:
       permalink: true
 
+# Customization
+extra:
+  social:
+    - type: 'weibo'
+      link: 'https://weibo.com/hanfuchw'
+
 # 目录结构
 nav:
   - 主页: 'index.md'
   - 点点滴滴:
-    - 简介: 'persional/profile.md'
+    - 档案: 'persional/profile.md'
+    - 生平: 'persional/life.md'
+    - 文集:
+      - 我是黄蓉: 'persional/article/wo_shi_huang_rong.md'
+      - 不再做肥仔妹: 'persional/article/bu_zai_zuo_fei_zai_mei.md'
+      - 我的明星生涯: 'persional/article/wo_de_ming_xing_sheng_xia.md'
+      - 但愿我是幸运儿: 'persional/article/dan_yuan_wo_shi_xing_yun_er.md'
+      - 快乐的源泉: 'persional/article/kuai_le_de_yuan_quan.md'
+      - 锡我的人: 'persional/article/xi_wo_de_ren.md'
+      - 不雅的称号: 'persional/article/bu_ya_de_cheng_hao.md'
+      - 电视迷热情融化了我: 'persional/article/ying_mi.md'
+      - 人生如舞台，初接黄蓉一角: 'persional/article/chu_jie_huang_rong.md'
+    - 家书:
+      - 劝母亲凡事要看开．73-10-06: ''
+      - 请求父母要忍让．73-11: ''
+      - 希望母亲莫太操劳．74-02-24: ''
+      - 小小美玲充满斗志．74-03-27: ''
+      - 选美输了身材．82-07-17: ''
+      - 有机会试镜做话剧．82-07-28: ''
+      - 恨做古装恨到发烧．82-08-12: ''
+      - 人说我不适合这个圈子．82-08-31: ''
+      - 靓妈出靓女．82-10-19: ''
+      - 请舅舅原谅．82-10-19: ''
+      - 为宣传爆初恋情人．82: ''
+      - 做节目发音不正．82: ''
+      - 忙，心理压力也大．82: ''
+      - 老友重逢，说不出的兴奋．82: ''
+      - 初演黄蓉乍惊乍喜．83: ''
+      - 去还神又去看命相．83-03-13: ''
+      - 望能参加舅舅的婚礼．83-03: ''
+      - 叹演艺圈难有真心真意的朋友．83 new: ''
+      - 望能早日返英与家人相聚．83 new: ''
+      - 登台的钱买屋或做生意．83-09-26: ''
+      - 泰国登台自称要捧勇气奖．83-10-18: ''
+      - 佳节思亲情切．无发信日期: ''
+      - 祝舅舅的小宝宝诞生．84 new: ''
+      - 盼望有个契仔．84-09-20: ''
+      - 希望今年拍一部电影．84-11-27: ''
+      - 星洲找印度相土看掌．84: ''
+      - 望命运能令我幸福．84: ''
+      - 给母亲的最后一封信．85-04-11: ''
+    - 电视剧: ''
+    - 影音: ''
+    - 杂志: ''
+    - 剧照: ''
+    - 反馈: ''
+    - 墓碑: ''
+
     - 访谈: 'persional/interview.md'
     - 报道: 'persional/report.md'
