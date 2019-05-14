@@ -1,1 +1,47 @@
 site_name: 翁美玲纪念馆
+
+site_author: 诸葛飞
+
+# Repository
+repo_name: zhugefeia/wengmeiling
+repo_url: https://github.com/zhugefeia/wengmeiling
+
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: zh
+  feature:
+    tabs: true
+  palette:
+    primary: red
+    accent: red
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+
+# 目录结构
+nav:
+  - 'index.md'
