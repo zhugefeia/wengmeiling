@@ -23,8 +23,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: red
-    accent: red
+    primary: Purple
+    accent: Purple
   font:
     text: Roboto
     code: Roboto Mono
@@ -44,4 +44,8 @@ markdown_extensions:
 
 # 目录结构
 nav:
-  - 'index.md'
+  - 主页: 'index.md'
+  - 点点滴滴:
+    - 简介: 'persional/profile.md'
+    - 访谈: 'persional/interview.md'
+    - 报道: 'persional/report.md'
