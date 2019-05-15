@@ -22,3 +22,6 @@
 献给所有喜爱阿翁的人
 
 </center>
+
+<audio autoplay="autoplay" loop="loop" src="../asset/bg.mp3">
+</autdio>
