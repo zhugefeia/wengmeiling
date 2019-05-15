@@ -1,6 +1,6 @@
  <center>
 
-![翁美玲](../../img/article/bu_ya_de_cheng_hao.jpeg)
+![翁美玲](../../img/article/bu_ya_de_cheng_hao.jpg)
 
  </center>
 
