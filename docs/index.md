@@ -23,5 +23,5 @@
 
 </center>
 
-<audio autoplay="autoplay" loop="loop" src="../asset/bg.mp3">
+<audio autoplay="autoplay" loop="loop" src="https://zhugefeia.github.io/wengmeiling/asset/bg.mp3">
 </autdio>
